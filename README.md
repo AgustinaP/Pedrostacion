@@ -3,4 +3,4 @@ Trabajo práctico de la asignatura Electrónica Digital de la carrera de Telecom
 Consta de una máquina de estados para contar autos que ingresan o egresa de una playa de estacionamiento a traves de dos sensores. 
 Programado en VHDL y simulado con Vivado.
 
-Meraki, Agus
+Made with meraki, Agus
